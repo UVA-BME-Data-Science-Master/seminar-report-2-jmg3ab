@@ -1,0 +1,26 @@
+---
+title: "SeminarReport 2"
+author: "James Gonzalez"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Oscar Wood, Founder and CEO, NN Data
+
+September 27, 2018
+5:30-7:00 PM
+
+"Data Engineering in the Wild""
+
+Summary
+
+What was discussed in this seminar was the experience of being a data engineer in industry. Wood opens the discussion saying that thriving is the field of data engineering is much like “survival in the wild.” He says the most important thing needed to form the basis of this is the mindset and attitude. Clients and customers often have no clear goal in mind- but it is the role of the data engineer to uphold a positive attitude while guiding the consumer. 
+
+The workplace is an important factor when it comes to data engineering. Information exchange within the team, clientele, and technical experts are key because it it where all the troubleshooting and communication occurs. A technical shelter is also pertinent, mainly when it comes to computing languages and software to use. Languages and software are continually evolving, and adapting to those evolving technologies is key to solving new problems as they come up. 
+
+For a data engineer, data is like water for survival. Availability of water, condition of water, relevancy of water, pollution of water,and other factors can be applied to and must be taken into consideration when consuming it. Transportation of data is an underrated factor when it comes workflow. One time, or singular instances of providing data may solve the problem at face, but without a steady and reliable source for data transport, inefficiencies cause errors and mishaps downstream. 
+
+Data engineers often take on the backend approach when solving problems, and develop reliable, consumable, useful, insightful, and complete problems which have no impact at face value. From this foundation, bigger thinking can foster more and more projects to ultimately result in unpreceded growth. 
